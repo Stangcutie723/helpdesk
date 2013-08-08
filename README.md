@@ -27,6 +27,7 @@ Troublehooting:<br>
 
 Heroku Addons:<br>
 ~Postmark<br>
+~Sendgrid<br>
 ~Postgresql<br>
 
 
