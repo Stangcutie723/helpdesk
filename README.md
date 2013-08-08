@@ -9,7 +9,7 @@ was my learning repo regarding these new skills. I troubleshooted for 5 hours an
 so I will come back to it tomorrow after I sleep.
 
 Known Bugs:<br>
-While running it has been known to crash my chrome and lose sublime files
+~While running it has been known to crash my chrome and lose sublime files
 
 Troublehooting:<br>
   *errors regarding pushing to heroku <br>
@@ -26,7 +26,7 @@ Troublehooting:<br>
 
 
 Heroku Addons:<br>
-Postmark<br>
-Postgresql<br>
+~Postmark<br>
+~Postgresql<br>
 
 
